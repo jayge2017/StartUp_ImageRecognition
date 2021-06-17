@@ -7,17 +7,18 @@ To read a more in-depth tutorial, check out my companion [blog post](https://guo
 This repo contains the code that is referenced in my medium post, and will take you through spinning up a basic image recognition AI model with just a few lines of code.
 
 
-
 ## Components of this project
 This project has several files that work together, each detailed below. 
 
 ### Data
-The Data folder contains three images screenshotted from the Start-Up show saved in png format. These are the example images that we are using for our tutorial. Once you clone this github repo, you will need to upload the "Data" folder into google drive and rename it "Start_Up_part_1_image_recognition" such that the absolute path to the folder should be "/content/drive/MyDrive/Start_Up_part_1_image_recognition"
+The Data folder contains three images screenshotted from the Start-Up show saved in png format. These are the example images that we are using for our tutorial. Once you clone this github repo, you will need to upload the "Data" folder into google drive and rename it "Start_Up_part_1_image_recognition" such that the absolute path to the folder should be "/content/drive/MyDrive/Start_Up_Data"
 This is the path we will use later in the notebook.
 
 ### "Start-Up_ImageRecognition_notebook_part1.ipynb"
-This is the python notebook that contains the code for the project referenced in the medium tutorial. You should download the notebook, then upload it to Colab in google by opening up https://colab.research.google.com/ in a browser, then running File > open notebook > Upload to open the notebook up.
+This is the python notebook that contains the code for the project referenced in the medium tutorial for part 1. You should download the notebook, then upload it to Colab in google by opening up https://colab.research.google.com/ in a browser, then running File > open notebook > Upload to open the notebook up.
 
+### "Start-Up_ImageRecognition_notebook_part2.ipynb"
+This is the python notebook that contains the code for the project referenced in the medium tutorial for part 2. You should download the notebook, then upload it to Colab in google by opening up https://colab.research.google.com/ in a browser, then running File > open notebook > Upload to open the notebook up.
 
 ### Acknowledgments
 This project was based on these online tutorials: 
